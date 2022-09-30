@@ -1,2 +1,2 @@
 # Android
-Projetos desenvolvidos em Android
+Projetos de desenvolvimento Android
